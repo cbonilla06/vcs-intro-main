@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vcs-intro-main/vcs-intro.iml" filepath="$PROJECT_DIR$/vcs-intro-main/vcs-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vcs-intro-main.iml" filepath="$PROJECT_DIR$/.idea/vcs-intro-main.iml" />
+    </modules>
+  </component>
+</project>
